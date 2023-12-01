@@ -1,0 +1,79 @@
+Report created: 
+	12/2/2023	2:22:52 AM
+
+Project name: T52.aep
+
+Source files collected to: 
+	C:\Users\teamc\OneDrive\Máy tính\plan 1month br\music4_1month-hihi\mip mip
+
+Source files collected: All
+
+Collected comps:  
+	Main
+	Comp 1
+	BG
+	Music
+	Title
+	Bar
+	Main
+	Background
+	Music
+	ntc2.png Comp 1
+	adu
+	adu_2
+	Comp 1
+	
+Number of collected files:  5
+
+Size of collected files:  130 MB
+
+Collected source files: 
+	C:\Users\teamc\Downloads\Music\y2mate.com - Azura  FTL 2nd  Fonglee  RaptorX  With U Extended Mix .mp3
+	C:\Users\teamc\Downloads\New Project.png
+	C:\Users\teamc\Downloads\Video\pagoda-moon-cherry-blossom-desktop-wallpaperwaifu-com.mp4
+	C:\Users\teamc\OneDrive\Máy tính\ready to let go.mp3
+	C:\Users\teamc\OneDrive\Máy tính\untitled.mp3
+	
+Number of missing items:  4
+
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  14
+
+Effect:  Audio Spectrum
+	
+Effect:  Brightness & Contrast
+	
+Effect:  Drop Shadow
+	
+Effect:  Fast Blur
+	
+Effect:  Fill
+	
+Effect:  Glow
+	
+Effect:  High-Low Pass
+	
+Effect:  Linear Wipe
+	
+Effect:  Magnify
+	
+Effect:  Mirror
+	
+Effect:  Radial Wipe
+	
+Effect:  Slider Control
+	
+Effect:  Sound Keys
+	
+Effect:  Stroke
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “LEMON MILK”, Font style: “Bold”
+		Font family: “LEMON MILK”, Font style: “Light”
+		Font family: “LEMON MILK”, Font style: “Regular”
+		Font family: “SVN”, Font style: “Avo”
+
